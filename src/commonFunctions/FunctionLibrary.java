@@ -130,4 +130,10 @@ public class FunctionLibrary {
 		System.out.println(a);
 	}
 	
+	public void sub()
+	{
+		int b =10;
+		System.out.println(b);
+	}
+	
 }
